@@ -1,0 +1,44 @@
+* {
+    font-family: "Jersey 10", sans-serif;
+}
+
+body {
+    background-image: url(space.jpeg);
+}
+
+header {
+    color: white;
+    height: 50px;
+    font-size: 25px;
+    margin-top: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+header span {
+    /* margin-left: 10px; */
+    padding-right: 90vh;
+}
+
+header a {
+    margin-right: 100px;
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    min-height: 58vh;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+section div.content {
+    margin-top: 25vh;
+    margin-right: 95vh;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+}
